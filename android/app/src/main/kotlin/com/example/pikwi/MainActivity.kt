@@ -1,0 +1,6 @@
+package com.example.pikwi
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
